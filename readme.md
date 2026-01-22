@@ -1,2 +1,1 @@
-# Starting With Python By Lagnada & Ilagan & Sudario
-
+# Starting With Python By Lagnada & Ilagan & Sudario & Torralba
